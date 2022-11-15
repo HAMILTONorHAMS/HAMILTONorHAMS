@@ -1,5 +1,5 @@
 <h1 align = center  width>
-👋🏻 <em> Hi I'm Hamilton or HAMS. </em>
+👋🏻 <em> Hi, I'm Hamilton or HAMS. </em>
 </h1>
 <ul>
  <li> 🖖🏻I'm starting this new development career to learn new things and put it into practice in a professional way. 
