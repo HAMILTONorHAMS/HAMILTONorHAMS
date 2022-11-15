@@ -1,5 +1,8 @@
+<h1 align = center  width>
+👋🏻 <em> Hi I'm Hamilton or HAMS. </em>
+</h1>
 <ul>
- <li> 👋 Hi I'm Hamilton or HAMS. I'm starting this new development career to learn new things and put it into practice in a professional way. 
+ <li> 🖖🏻I'm starting this new development career to learn new things and put it into practice in a professional way. 
  <li> 📝 I'm taking a technical course in Systems Development Analysis.
  <li> 👀 I'm interested in learning more about Front End. Also, I would like to qualify React and Angular.
  <li> 🌱 I'm learning the front end. Specifically Java Script. Also, I'm perfecting the use of HTML and CSS.
