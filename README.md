@@ -3,9 +3,9 @@
 </h1>
 <ul>
  <li> 🖖🏻I'm starting this new development career to learn new things and put it into practice in a professional way. 
- <li> 📝 I'm taking a technical course in Systems Development Analysis.
- <li> 👀 I'm interested in learning more about Front End. Also, I would like to qualify React and Angular.
- <li> 🌱 I'm learning the front end. Specifically Java Script. Also, I'm perfecting the use of HTML and CSS.
+ <li> 📝 I'm taking a postgraduate degree in Systems Development in JAVA, graduated from a technical course in Systems Development Analysis.
+ <li> 👀 I'm interested in learning more about other technologies, shaping myself according to the needs of the work to be developed.
+ <li> 🌱 I'm learning the front-end self-taught. Specializing in the back-end. In order to qualify myself more.
 </ul>
  <div align = 'center'>
   <p>📫 How to reach me: </p>
