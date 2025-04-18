@@ -18,7 +18,7 @@ Atualmente, atuo como estagiário em uma empresa, onde venho adquirindo experiê
 Tenho grande interesse em novas tecnologias e procuro adaptar-me às exigências e especificidades de cada projeto.  
 Estudo **front-end** de forma autodidata e estou me especializando em **back-end**, com o objetivo de ampliar minhas competências e qualificações técnicas.
  <div align = 'center'>
-  <p>📫 How to reach me: </p>
+  <p>📫 Onde você pode me encontrar: </p>
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrhVSwZQbpkLdfzbhWVvQSCsPSNvpzFvgQhhlKknJmPLRHwxZhBFXDZLcNTPsLksCFlJwg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" {target="_blank"} rel="noopener noreferrer"></a>
   <a href="https://www.linkedin.com/in/hamilton-rodrigues/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" {target="_blank"}></a>
   <a href="https://www.instagram.com/hams_rodrigues/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
