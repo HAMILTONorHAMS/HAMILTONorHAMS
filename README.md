@@ -1,5 +1,4 @@
-### Choose language
-- [English](README.md)
+### Portuguese version
 - [Português](README.pt.md)
   
 ### English version
