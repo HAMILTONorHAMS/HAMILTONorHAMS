@@ -1,4 +1,6 @@
-
+- [English](README.md)
+- [Português](README.pt.md)
+  
 ### English version
 👋🏻 <em> Hi, I'm Hamilton or HAMS. </em>👾
 ## 💼 Career Start  
