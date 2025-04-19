@@ -1,5 +1,5 @@
-# README.pt.md-portugues-
-Um resumo sobre mim em português
+# Um resumo sobre mim em português
+
 
 ### Versão Brasileira 
 👋🏻 <em> Olá, meu nome é Hamilton ou pode me chamar de HAMS também. </em>👾
