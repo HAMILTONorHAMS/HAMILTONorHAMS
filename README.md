@@ -1,4 +1,4 @@
-### Portuguese version
+### Click to go to view the Portuguese version
 - [Português](README.pt.md)
   
 ### English version
