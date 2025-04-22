@@ -16,7 +16,7 @@ Atualmente, atuo como estagiário em uma empresa, onde venho adquirindo experiê
 
 ## 📚 Interesses e Aprendizado Contínuo  
 Tenho grande interesse em novas tecnologias e procuro adaptar-me às exigências e especificidades de cada projeto.  
-Estudo **front-end** de forma autodidata e estou me especializando em **back-end**, com o objetivo de ampliar minhas competências e qualificações técnicas.
+Estudo **back-end** de forma autodidata e estou me especializando em **front-end**, com o objetivo de ampliar minhas competências e qualificações técnicas.
  <div align = 'center'>
   <p>📫 Onde você pode me encontrar: </p>
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrhVSwZQbpkLdfzbhWVvQSCsPSNvpzFvgQhhlKknJmPLRHwxZhBFXDZLcNTPsLksCFlJwg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" {target="_blank"} rel="noopener noreferrer"></a>
