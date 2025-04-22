@@ -16,7 +16,7 @@ I am currently working as an intern at a company, gaining practical experience w
 
 ## 📚 Interests and Ongoing Learning  
 I am highly interested in emerging technologies and strive to adapt to the specific needs of each project.  
-I am self-studying **front-end** development and specializing in **back-end**, aiming to expand my technical knowledge and professional qualifications.
+I am self-studying  **back-end** development and specializing in **front-end**, aiming to expand my technical knowledge and professional qualifications.
 
  <div align = 'center'>
   <p>📫 How to reach me: </p>
