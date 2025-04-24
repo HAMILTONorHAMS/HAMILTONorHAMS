@@ -1,22 +1,30 @@
 # Um resumo sobre mim em português
 
+👋🏻 **Olá, meu nome é Hamilton**, também conhecido como HAMS. 👾
 
-### Versão Brasileira 
-👋🏻 <em> Olá, meu nome é Hamilton ou pode me chamar de HAMS também. </em>👾
-## 💼 Início de Carreira  
-Estou iniciando uma nova trajetória profissional na área de desenvolvimento, com foco em aprendizado contínuo e aplicação prática dos conhecimentos adquiridos de maneira ética e comprometida.
+### 💼 Trajetória Profissional
+Estou seguindo carreira no desenvolvimento de software, com foco em tecnologias front-end e um compromisso com o aprendizado contínuo e crescimento profissional.
 
-## 🎓 Formação Acadêmica  
-- Técnico em **Análise e Desenvolvimento de Sistemas**
-- Pós-graduação completa em **Desenvolvimento de Sistemas em Java**
-- Cursando **MBA em Business Intelligence**
+### 🎓 Formação Acadêmica
+* Formação técnica em **Análise e Desenvolvimento de Sistemas**
+* Pós-graduação em **Desenvolvimento de Sistemas em Java**
+* Atualmente cursando **MBA em Business Intelligence**
 
-## 🧑‍💻 Experiência Profissional  
-Atualmente, atuo como estagiário em uma empresa, onde venho adquirindo experiência prática com tecnologias como **Angular** e práticas de **DevOps com Azure**, contribuindo com soluções em projetos reais de desenvolvimento.
+### 🧑‍💻 Experiência Profissional
+Atualmente trabalho como estagiário de desenvolvimento, onde:
+* Construo aplicações web responsivas utilizando **Angular**
+* Trabalho com **SCSS** e **Tailwind CSS** para estilização
+* Colaboro usando ferramentas do **Azure DevOps** e **Git** para controle de versão
+* Testo e depuro integrações de API usando **Insomnia**
 
-## 📚 Interesses e Aprendizado Contínuo  
-Tenho grande interesse em novas tecnologias e procuro adaptar-me às exigências e especificidades de cada projeto.  
-Estudo **back-end** de forma autodidata e estou me especializando em **front-end**, com o objetivo de ampliar minhas competências e qualificações técnicas.
+### 💻 Habilidades Técnicas
+* **Front-end**: Angular, TypeScript, JavaScript, HTML5, CSS3
+* **Ferramentas**: Git, Azure DevOps, Insomnia, Netlify
+* **Aprendendo atualmente**: Conceitos avançados de React.js e desenvolvimento back-end
+
+### 📚 Objetivos Profissionais
+Sou apaixonado por criar interfaces de usuário intuitivas e resolver desafios técnicos complexos. Meu objetivo é desenvolver expertise tanto em tecnologias front-end quanto back-end para me tornar um desenvolvedor full-stack versátil.
+
  <div align = 'center'>
   <p>📫 Onde você pode me encontrar: </p>
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrhVSwZQbpkLdfzbhWVvQSCsPSNvpzFvgQhhlKknJmPLRHwxZhBFXDZLcNTPsLksCFlJwg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" {target="_blank"} rel="noopener noreferrer"></a>
