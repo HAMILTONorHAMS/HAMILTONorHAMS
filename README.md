@@ -1,22 +1,32 @@
 ### Click to go to view the Portuguese version
 - [Português](README.pt.md)
   
-### English version
-👋🏻 <em> Hello, my name is Hamilton or you can call me HAMS too. </em>👾
-## 💼 Career Start  
-I am embarking on a new professional journey in the development field, with a focus on continuous learning and the practical application of knowledge in a responsible and committed manner.
+## English version
 
-## 🎓 Academic Background  
-- Technical degree in **Systems Analysis and Development**  
-- Postgraduate in **Java Systems Development**  
-- Currently pursuing an **MBA in Business Intelligence**
+👋🏻 **Hello, my name is Hamilton**, also known as HAMS. 👾
 
-## 🧑‍💻 Professional Experience  
-I am currently working as an intern at a company, gaining practical experience with technologies such as **Angular** and **DevOps with Azure**, and contributing to real-world development projects.
+### 💼 Career Path
+I am pursuing a career in software development, with a focus on front-end technologies and a commitment to continuous learning and professional growth.
 
-## 📚 Interests and Ongoing Learning  
-I am highly interested in emerging technologies and strive to adapt to the specific needs of each project.  
-I am self-studying  **back-end** development and specializing in **front-end**, aiming to expand my technical knowledge and professional qualifications.
+### 🎓 Academic Background
+* Technical degree in **Systems Analysis and Development**
+* Postgraduate degree in **Java Systems Development**
+* Currently pursuing an **MBA in Business Intelligence**
+
+### 🧑‍💻 Professional Experience
+I currently work as a development intern, where I:
+* Build responsive web applications using **Angular**
+* Work with **SCSS** and **Tailwind CSS** for styling
+* Collaborate using **Azure DevOps** tools and **Git** for version control
+* Test and debug API integrations using **Insomnia**
+
+### 💻 Technical Skills
+* **Front-end**: Angular, TypeScript, JavaScript, HTML5, CSS3
+* **Tools**: Git, Azure DevOps, Insomnia, Netlify
+* **Currently learning**: Advanced React.js concepts and back-end development
+
+### 📚 Professional Goals
+I'm passionate about creating intuitive user interfaces and solving complex technical challenges. My goal is to develop expertise in both front-end and back-end technologies to become a versatile full-stack developer.
 
  <div align = 'center'>
   <p>📫 How to reach me: </p>
