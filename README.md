@@ -2,7 +2,7 @@
 - [Português](README.pt.md)
   
 ### English version
-👋🏻 <em> Hi, I'm Hamilton or HAMS. </em>👾
+👋🏻 <em> Hello, my name is Hamilton or you can call me HAMS too. </em>👾
 ## 💼 Career Start  
 I am embarking on a new professional journey in the development field, with a focus on continuous learning and the practical application of knowledge in a responsible and committed manner.
 
