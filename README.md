@@ -21,9 +21,9 @@ I currently work as a development intern, where I:
 * Test and debug API integrations using **Insomnia**
 
 ### 💻 Technical Skills
-* **Front-end**: Next.js, Angular, React, TypeScript, JavaScript, SCSS
+* **Front-end**: Next.js, Angular, React, TypeScript, SCSS, Wordpress
 * **Back-end**: Next.js, Node, PostgreSQL, Drizzle, Neon, Java
-* **Design**: Figma, Canva, Elementor, Framer**
+* **Design**: Figma, Canva, Elementor, Framer
 * **Tools**: Git, Azure DevOps, Insomnia, Postman, Zod, Better Auth, Angular Material, Shadcn, Jest
 * **Currently learning**: Advanced Next.js concepts Front-end and Back-end development for SaaS and full-stack application development
 
