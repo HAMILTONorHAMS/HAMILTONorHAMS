@@ -3,32 +3,49 @@
   
 ## English version
 
-👋🏻 **Hello, my name is Hamilton**, also known as HAMS. 👾
+# 👋🏻 Hello, I'm Hamilton — also known as HAMS 👾
 
-### 💼 Career Path
-I am pursuing a career in software development, with a focus on front-end technologies and a commitment to continuous learning and professional growth.
+## 💼 Career Path  
+I'm currently working as a **Junior Developer**, with a focus on **front-end technologies** and a strong commitment to continuous learning and professional growth.
 
-### 🎓 Academic Background
-* Technical degree in **Systems Analysis and Development**
-* Postgraduate degree in **Java Systems Development**
-* Currently pursuing an **MBA in Business Intelligence**
+## 🎓 Academic Background  
+- 🎓 Technical degree in **Systems Analysis and Development**  
+- 🎓 Postgraduate degree in **Java Systems Development**  
+- 🎓 Currently pursuing an **MBA in Business Intelligence**
 
-### 🧑‍💻 Professional Experience
-I currently work as a development intern, where I:
-* Build responsive web applications using **Angular**
-* Work with **SCSS** and **Tailwind CSS** for styling
-* Collaborate using **Azure DevOps** tools and **Git** for version control
-* Test and debug API integrations using **Insomnia**
+## 🧑‍💻 Professional Experience  
+As a Junior Developer, I:  
+- 💻 Build responsive web applications using **Angular**  
+- 🎨 Style interfaces using **SCSS** and **Tailwind CSS**  
+- 🔧 Collaborate using **Azure DevOps** and **Git** for version control  
+- 🔍 Test and debug API integrations with **Insomnia**
 
-### 💻 Technical Skills
-* **Front-end**: Next.js, Angular, React, TypeScript, SCSS, Wordpress
-* **Back-end**: Next.js, Node, PostgreSQL, Drizzle, Neon, Java
-* **Design**: Figma, Canva, Elementor, Framer
-* **Tools**: Git, Azure DevOps, Insomnia, Postman, Zod, Better Auth, Angular Material, Shadcn, Jest
-* **Currently learning**: Advanced Next.js concepts Front-end and Back-end development for SaaS and full-stack application development
+## 💻 Technical Skills  
 
-### 📚 Professional Goals
-I'm passionate about creating intuitive user interfaces and solving complex technical challenges. My goal is to develop expertise in both front-end and back-end technologies to become a versatile full-stack developer.
+### Front-end  
+- **Angular**, **React**, **Next.js**, **TypeScript**, **SCSS**, **WordPress**
+
+### Back-end  
+- **Node.js**, **Next.js**, **PostgreSQL**, **Drizzle**, **Neon**, **Java**
+
+### Design & Prototyping  
+- **Figma**, **Canva**, **Elementor**, **Framer**
+
+### Tools  
+- **Git**, **Azure DevOps**, **Insomnia**, **Postman**  
+  **Zod**, **Better Auth**, **Angular Material**, **Shadcn**, **Jest**
+
+### Currently Learning  
+- 🚀 Advanced **Next.js** concepts  
+- 🔄 Full-stack development and **SaaS** application architecture
+
+## 📚 Professional Goals  
+I'm passionate about creating intuitive user interfaces and solving complex technical challenges.  
+My goal is to grow as a **full-stack developer**, mastering both front-end and back-end technologies.
+
+---
+
+🌐 Thanks for visiting my profile!  
 
 
  <div align = 'center'>
